@@ -7,13 +7,18 @@ body {
 
 
 .exp-header {
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
+  text-align: left;
+  text-transform: 
+  border-top: 
+  border-bottom:
   background-color: rgba(0,0,0, 0.1) 
 }
 
 .name {
-  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
+.work-experience1 {
+  border-bottom: 1px solid #dddddd;
+  
 }
