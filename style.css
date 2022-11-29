@@ -13,11 +13,12 @@ body {
 }
 
 
-.exp-header {
+.left {
   text-align: center;
   color: #0E5E6F;
   border-style: dotted ;
-  background-color: rgba(0,0,0, 0.0) 
+  background-color: rgba(0,0,0, 0.0)
+  float: left;
 }
 
 .education-header {
@@ -34,7 +35,15 @@ body {
 .work-experience1 {
   border-bottom: dashed black ;
   font-size: 14pt;
-  
+   
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
 }
 
 .picright{
