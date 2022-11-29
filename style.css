@@ -1,6 +1,6 @@
 body {
-  background-color: #FFFBFF;
-  color: #393E46;
+  background-color: #A6ACAF;
+  color: ##909497;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
  
@@ -15,15 +15,14 @@ body {
 
 .left {
   text-align: center;
-  color: #0E5E6F;
+  color: #2B11D1 ;
   border-style: dotted ;
   background-color: rgba(0,0,0, 0.0)
-  float: left;
 }
 
 .education-header {
   text-align: center;
-  color: #0E5E6F;
+  color: #2B11D1;
   border-style: dotted ;
   background-color: rgba(0,0,0, 0.0) 
 }
@@ -34,17 +33,9 @@ body {
 
 .work-experience1 {
   border-bottom: dashed black ;
-  font-size: 14pt;
-   
+  font-size: 14pt;   
 }
 
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
 
 .picright{
   float:right;
